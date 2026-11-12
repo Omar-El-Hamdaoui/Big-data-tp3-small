@@ -1,0 +1,8 @@
+\.venv/
+data/
+artifacts/
+reports/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+example_*_request.json

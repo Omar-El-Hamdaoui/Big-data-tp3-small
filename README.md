@@ -1,5 +1,7 @@
 # TP3 — Small Data : films
 
+**Omar El Hamdaoui — ID03.**
+
 Notebook exécuté : [`trending-movies-analysis-up-to-2026_small_data.ipynb`](trending-movies-analysis-up-to-2026_small_data.ipynb). Il contient l’acquisition, l’EDA avec PySpark, le prétraitement, les transformations, les modèles, l’évaluation graphique et l’API locale FastAPI.
 
 ## Exécuter
